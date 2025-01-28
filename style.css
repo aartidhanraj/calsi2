@@ -43,3 +43,17 @@ button{
     margin: 5px;  
     font-size: 20px
 }
+button:hover{
+    height: 23px;
+    padding: 23px;
+    background-color: rgb(130, 178, 227);
+    color: black;
+    }
+    .btn{
+        background-color: whitesmoke;
+        color: black;
+    }
+    .btn:hover{
+        background-color: rgb(255, 192, 203);
+        color: black;
+    }
